@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566472468924",
+    "project_id": "store-a2100",
+    "storage_bucket": "store-a2100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566472468924:android:0f91312f4b77d6aa36a3b9",
+        "android_client_info": {
+          "package_name": "com.iris.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566472468924-p8tjtsannpa4utfgvp7646r5a63mi8tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqwOGOfwdaiYQ0YSQsUhLEILPfwf9CKMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566472468924-p8tjtsannpa4utfgvp7646r5a63mi8tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
